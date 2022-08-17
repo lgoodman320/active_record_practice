@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  role: MyString
+  date_hired: 2022-08-17
+  tkrole: MyString
+
+two:
+  name: MyString
+  role: MyString
+  date_hired: 2022-08-17
+  tkrole: MyString
